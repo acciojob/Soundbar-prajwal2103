@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#buttons{
+    background-color: rgb(161,100,223);
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    align-items: center;
+	flex-wrap:wrap;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.btn,.stop{
+    width: 100px;
+    height: 40px;
+    justify-content:;
+    background-color: rgb(102,51,153);
+    border-radius: 5px;
+    color: white;
+    box-shadow: none;
+
+}
